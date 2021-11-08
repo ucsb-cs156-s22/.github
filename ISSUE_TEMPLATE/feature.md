@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: This is a template for defining user stories
-title: 'Short description of feature'
+title: 'FEATURE: Short description of feature'
 labels: feature
 assignees: ''
 
